@@ -1,0 +1,105 @@
+🤖 Teachable Machine — Machine Learning Project
+
+📌 Overview
+
+This project explores the fundamentals of Machine Learning using Google Teachable Machine, a beginner-friendly tool that allows users to train machine-learning models with minimal coding.
+
+The project demonstrates the basic workflow of creating a dataset, training a model, testing its predictions, and observing how the model responds to different inputs.
+
+🎯 Objective
+
+The main objective of this project was to understand the basic Machine Learning workflow through a practical, hands-on demonstration.
+
+What I explored:
+
+- Creating and organizing training data
+- Training a Machine Learning model
+- Testing the trained model
+- Understanding classification and predictions
+- Observing model performance
+- Understanding how the quality of training data affects predictions
+
+🛠️ Tool Used
+
+Google Teachable Machine
+
+Google Teachable Machine provides an easy way to create and train machine-learning models for:
+
+- 🖼️ Images
+- 🔊 Sounds
+- 🕺 Poses
+
+🔄 Project Workflow
+
+Collect Data
+     ↓
+Create Classes
+     ↓
+Train Model
+     ↓
+Test Model
+     ↓
+Make Predictions
+     ↓
+Analyze Results
+
+📸 Project Screenshots
+
+1. Project Setup
+
+Add screenshot here
+
+2. Training Data
+
+Add screenshot here
+
+3. Model Training
+
+Add screenshot here
+
+4. Model Testing / Prediction
+
+Add screenshot here
+
+5. Final Result
+
+Add screenshot here
+
+🧠 Key Learnings
+
+Through this project, I learned:
+
+- The basic concept of Machine Learning classification
+- How training data is used to teach a model
+- The importance of having suitable and representative training data
+- How a trained model makes predictions
+- The basic workflow involved in developing an ML model
+- How no-code/low-code ML tools can be used for experimentation and learning
+
+📚 Skills Demonstrated
+
+- Machine Learning
+- Artificial Intelligence
+- Classification
+- Model Training
+- Model Testing
+- Data Preparation
+- Google Teachable Machine
+
+🚀 Future Improvements
+
+Possible improvements to this project include:
+
+- Experimenting with larger and more diverse datasets
+- Comparing results with different training conditions
+- Exploring model export and deployment
+- Implementing the trained model in a Python-based application
+- Exploring more advanced Machine Learning techniques
+
+👨‍💻 Author
+
+Krishna Sikarwar
+
+BTech CSE | AKTU | 2029
+
+"LinkedIn" (https://www.linkedin.com/in/krishna-thakur-43717643a/)
